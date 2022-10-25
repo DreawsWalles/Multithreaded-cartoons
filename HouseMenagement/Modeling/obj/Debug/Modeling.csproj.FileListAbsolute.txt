@@ -1,0 +1,21 @@
+C:\Users\Hardened\Documents\GitHub\university\C#\Modeling\Modeling\bin\Debug\Modeling.exe.config
+C:\Users\Hardened\Documents\GitHub\university\C#\Modeling\Modeling\bin\Debug\Modeling.exe
+C:\Users\Hardened\Documents\GitHub\university\C#\Modeling\Modeling\bin\Debug\Modeling.pdb
+C:\Users\Hardened\Documents\GitHub\university\C#\Modeling\Modeling\obj\Debug\Modeling.csprojAssemblyReference.cache
+C:\Users\Hardened\Documents\GitHub\university\C#\Modeling\Modeling\obj\Debug\Modeling.View.resources
+C:\Users\Hardened\Documents\GitHub\university\C#\Modeling\Modeling\obj\Debug\Modeling.Properties.Resources.resources
+C:\Users\Hardened\Documents\GitHub\university\C#\Modeling\Modeling\obj\Debug\Modeling.csproj.GenerateResource.cache
+C:\Users\Hardened\Documents\GitHub\university\C#\Modeling\Modeling\obj\Debug\Modeling.exe
+C:\Users\Hardened\Documents\GitHub\university\C#\Modeling\Modeling\obj\Debug\Modeling.pdb
+C:\Users\Hardened\Documents\GitHub\university\C#\Modeling\Modeling\obj\Debug\Modeling.ViewTestSize.resources
+C:\Users\sd005\YandexDisk\Задачи на сдачу\Работягам\Modeling\Modeling\bin\Debug\Modeling.exe.config
+C:\Users\sd005\YandexDisk\Задачи на сдачу\Работягам\Modeling\Modeling\bin\Debug\Modeling.exe
+C:\Users\sd005\YandexDisk\Задачи на сдачу\Работягам\Modeling\Modeling\bin\Debug\Modeling.pdb
+C:\Users\sd005\YandexDisk\Задачи на сдачу\Работягам\Modeling\Modeling\obj\Debug\Modeling.csprojAssemblyReference.cache
+C:\Users\sd005\YandexDisk\Задачи на сдачу\Работягам\Modeling\Modeling\obj\Debug\Modeling.ViewTestSize.resources
+C:\Users\sd005\YandexDisk\Задачи на сдачу\Работягам\Modeling\Modeling\obj\Debug\Modeling.View.resources
+C:\Users\sd005\YandexDisk\Задачи на сдачу\Работягам\Modeling\Modeling\obj\Debug\Modeling.Properties.Resources.resources
+C:\Users\sd005\YandexDisk\Задачи на сдачу\Работягам\Modeling\Modeling\obj\Debug\Modeling.csproj.GenerateResource.cache
+C:\Users\sd005\YandexDisk\Задачи на сдачу\Работягам\Modeling\Modeling\obj\Debug\Modeling.csproj.CoreCompileInputs.cache
+C:\Users\sd005\YandexDisk\Задачи на сдачу\Работягам\Modeling\Modeling\obj\Debug\Modeling.exe
+C:\Users\sd005\YandexDisk\Задачи на сдачу\Работягам\Modeling\Modeling\obj\Debug\Modeling.pdb

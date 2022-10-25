@@ -1,0 +1,31 @@
+E:\OneDrive - ВГУ\C#\project2.Two\project\bin\Debug\project.exe.config
+E:\OneDrive - ВГУ\C#\project2.Two\project\bin\Debug\project.exe
+E:\OneDrive - ВГУ\C#\project2.Two\project\bin\Debug\project.pdb
+E:\OneDrive - ВГУ\C#\project2.Two\project\obj\Debug\project.csprojAssemblyReference.cache
+E:\OneDrive - ВГУ\C#\project2.Two\project\obj\Debug\project.Properties.Resources.resources
+E:\OneDrive - ВГУ\C#\project2.Two\project\obj\Debug\project.csproj.GenerateResource.cache
+E:\OneDrive - ВГУ\C#\project2.Two\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+E:\OneDrive - ВГУ\C#\project2.Two\project\obj\Debug\project.exe
+E:\OneDrive - ВГУ\C#\project2.Two\project\obj\Debug\project.pdb
+E:\OneDrive - ВГУ\C#\project2.Two\project\obj\Debug\project.Visualization.resources
+C:\Users\Ирина Плотникова\OneDrive\Рабочий стол\project2_Two\project2.Two\project\bin\Debug\project.exe.config
+C:\Users\Ирина Плотникова\OneDrive\Рабочий стол\project2_Two\project2.Two\project\bin\Debug\project.exe
+C:\Users\Ирина Плотникова\OneDrive\Рабочий стол\project2_Two\project2.Two\project\bin\Debug\project.pdb
+C:\Users\Ирина Плотникова\OneDrive\Рабочий стол\project2_Two\project2.Two\project\obj\Debug\project.csprojAssemblyReference.cache
+C:\Users\Ирина Плотникова\OneDrive\Рабочий стол\project2_Two\project2.Two\project\obj\Debug\project.Form1.resources
+C:\Users\Ирина Плотникова\OneDrive\Рабочий стол\project2_Two\project2.Two\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\Ирина Плотникова\OneDrive\Рабочий стол\project2_Two\project2.Two\project\obj\Debug\project.Visualization.resources
+C:\Users\Ирина Плотникова\OneDrive\Рабочий стол\project2_Two\project2.Two\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\Ирина Плотникова\OneDrive\Рабочий стол\project2_Two\project2.Two\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\Ирина Плотникова\OneDrive\Рабочий стол\project2_Two\project2.Two\project\obj\Debug\project.exe
+C:\Users\Ирина Плотникова\OneDrive\Рабочий стол\project2_Two\project2.Two\project\obj\Debug\project.pdb
+C:\Users\Ирина Плотникова\OneDrive\Рабочий стол\project2_Two\project2_Two (2)\project2.Two\project\bin\Debug\project.exe.config
+C:\Users\Ирина Плотникова\OneDrive\Рабочий стол\project2_Two\project2_Two (2)\project2.Two\project\bin\Debug\project.exe
+C:\Users\Ирина Плотникова\OneDrive\Рабочий стол\project2_Two\project2_Two (2)\project2.Two\project\bin\Debug\project.pdb
+C:\Users\Ирина Плотникова\OneDrive\Рабочий стол\project2_Two\project2_Two (2)\project2.Two\project\obj\Debug\project.csprojAssemblyReference.cache
+C:\Users\Ирина Плотникова\OneDrive\Рабочий стол\project2_Two\project2_Two (2)\project2.Two\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\Ирина Плотникова\OneDrive\Рабочий стол\project2_Two\project2_Two (2)\project2.Two\project\obj\Debug\project.Visualization.resources
+C:\Users\Ирина Плотникова\OneDrive\Рабочий стол\project2_Two\project2_Two (2)\project2.Two\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\Ирина Плотникова\OneDrive\Рабочий стол\project2_Two\project2_Two (2)\project2.Two\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\Ирина Плотникова\OneDrive\Рабочий стол\project2_Two\project2_Two (2)\project2.Two\project\obj\Debug\project.exe
+C:\Users\Ирина Плотникова\OneDrive\Рабочий стол\project2_Two\project2_Two (2)\project2.Two\project\obj\Debug\project.pdb
